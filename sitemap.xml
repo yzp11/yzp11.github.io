@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://yzp11.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yzp11.github.io/publications/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yzp11.github.io/cv/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://yzp11.github.io/sitemap</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yzp11.github.io/feed.xml</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
