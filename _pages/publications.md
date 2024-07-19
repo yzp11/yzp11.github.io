@@ -14,9 +14,11 @@ author_profile: true
 \* indicates equal contribution.
 * MALT: Multi-scale Action Learning Transformer for Online Action Detection. \
   **Zhipeng Yang**\*, Ruoyu Wang\*, Yang Tan, Liping Xie. \
-  In 2024 International Joint Conference on Neural Networks **(IJCNN)**, Yokohama, Japan, June 2024. **(Oral)**
+  In 2024 International Joint Conference on Neural Networks **(IJCNN)**, Yokohama, Japan, June 2024. **(Oral)** \
+  [Arxiv](https://arxiv.org/pdf/2405.20892)
   
 * LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots. \
   Ruoyu Wang\*, **Zhipeng Yang**\*, Zinan Zhao, Xinyan Tong, Zhi Hong, Kun Qian. \
-  In 2024 Chinese Control Conference **(CCC)**, Kunming, China, July 2024.  
+  In 2024 Chinese Control Conference **(CCC)**, Kunming, China, July 2024. \
+  [Arxiv](https://arxiv.org/pdf/2405.15646)
   
