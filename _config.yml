@@ -7,10 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
 title                    : "Zhipeng Yang"
 title_separator          : "-"
-name                     : &name "Zhipeng Yang"
+name                     : &name "Zhipeng Yang (杨致芃)"
 description              : &description "personal description"
 url                      : https://yzp11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
