@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 -
+---
 * B.S. in Robot Engineering, Southeast University, Sep. 2021 -- Jun. 2025
 
 Work Experience
 -
+---
 * Research Intern, Shanghai Jiao Tong University, Apr. 2024 - May 2024
 
 Publications
 -
+---
 \* indicates equal contribution.
 * MALT: Multi-scale Action Learning Transformer for Online Action Detection. \
   **Zhipeng Yang**\*, Ruoyu Wang\*, Yang Tan, Liping Xie. \
@@ -32,5 +35,6 @@ Publications
   
 Skills
 -
+---
 * **Languages**: Mandarin(native), English(IELTS: prepared, CET6: 493)
 * **Programming**: Python, Pytorch, C/C++, Matlab
