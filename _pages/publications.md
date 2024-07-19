@@ -10,9 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-\* indicates equal contribution.
 
-* MALT: Multi-scale Action Learning Transformer for Online Action Detection.
-  Zhipeng Yang, Ruoyu Wang, Yang Tan, Liping Xie.
+\* indicates equal contribution.
+* MALT: Multi-scale Action Learning Transformer for Online Action Detection. \\
+  Zhipeng Yang, Ruoyu Wang, Yang Tan, Liping Xie. \\
   In 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, June 2024. (Oral)
 *
