@@ -13,6 +13,10 @@ Education
 -
 * B.S. in Robot Engineering, Southeast University, Sep. 2021 -- Jun. 2025
 
+Work Experience
+-
+* Research Intern, Shanghai Jiao Tong University, Apr. 2024 - May 2024
+
 Publications
 -
 \* indicates equal contribution.
