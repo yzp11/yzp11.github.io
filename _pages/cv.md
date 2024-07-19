@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-**Education**
+Education
+-
 * B.S. in Robot Engineering, Southeast University, Sep. 2021 -- Jun. 2025
 
-**Publications**
+Publications
+-
 \* indicates equal contribution.
 * MALT: Multi-scale Action Learning Transformer for Online Action Detection. \
   **Zhipeng Yang**\*, Ruoyu Wang\*, Yang Tan, Liping Xie. \
@@ -24,6 +26,7 @@ redirect_from:
   In 2024 Chinese Control Conference **(CCC)**, Kunming, China, July 2024. \
   [\[Arxiv\]](https://arxiv.org/pdf/2405.15646)
   
-**Skills**
+Skills
+-
 * **Languages**: Mandarin(native), English(IELTS: prepared, CET6: 493)
 * **Programming**: Python, Pytorch, C/C++, Matlab
