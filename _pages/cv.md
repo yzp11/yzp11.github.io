@@ -9,56 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Education**
+* B.S. in Robot Engineering, Southeast University, Sep. 2021 -- Jun. 2025
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Publications**
+\* indicates equal contribution.
+* MALT: Multi-scale Action Learning Transformer for Online Action Detection. \
+  **Zhipeng Yang**\*, Ruoyu Wang\*, Yang Tan, Liping Xie. \
+  In 2024 International Joint Conference on Neural Networks **(IJCNN)**, Yokohama, Japan, June 2024. **(Oral)** \
+  [\[Arxiv\]](https://arxiv.org/pdf/2405.20892)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots. \
+  Ruoyu Wang\*, **Zhipeng Yang**\*, Zinan Zhao, Xinyan Tong, Zhi Hong, Kun Qian. \
+  In 2024 Chinese Control Conference **(CCC)**, Kunming, China, July 2024. \
+  [\[Arxiv\]](https://arxiv.org/pdf/2405.15646)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Skills**
+* **Languages**: Mandarin(native), English(IELTS: prepared, CET6: 493)
+* **Programming**: Python, Pytorch, C/C++, Matlab
