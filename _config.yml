@@ -7,8 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Zhipeng Yang"
+title                    : "Zhipeng Yang (杨致芃)"
 title_separator          : "-"
 name                     : &name "Zhipeng Yang"
 description              : &description "personal description"
