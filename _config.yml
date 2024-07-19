@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-title                    : "Zhipeng Yang"
+title                    : "Zhipeng Yang (杨致芃)"
 title_separator          : "-"
 name                     : &name "Zhipeng Yang (杨致芃)"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "yzp11/yzp11.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhipeng Yang"
+  name             : "Zhipeng Yang (杨致芃)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student"
   location         : "Nanjing, China"
