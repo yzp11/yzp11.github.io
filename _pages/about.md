@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from School of Automation, Southeast University. My current research interest is Explainable AI, especially the interpretability and transparency of deep learning.
+I'm Zhipeng Yang (杨致芃), a fourth year undergraduate student from School of Automation, Southeast University. My current research interest is Explainable AI, especially the interpretability and transparency of deep learning.
