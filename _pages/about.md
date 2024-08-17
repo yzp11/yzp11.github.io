@@ -20,15 +20,16 @@ redirect_from:
 
 A
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 
-
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
 
-
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2021.08 - 2025.06*, Bachelor in Robot Engineering, Southeast University.
 
-
+<span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
