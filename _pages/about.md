@@ -16,33 +16,34 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-1
-2
-3
-4
+1 \\
+2 \\
+3 \\
+4  \\
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-1
-2
-3
-4
+1 \\ 
+2 \\
+3 \\
+4 \\
+
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
-1
-2
-3
-4
+1 \\
+2 \\
+3 \\
+4 \\
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2021.08 - 2025.06*, Bachelor in Robot Engineering, Southeast University.
-2
-3
-4
+
+
+
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-1
-2
-3
-4
+1 \\
+2 \\
+3 \\
+4 \\
