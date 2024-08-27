@@ -41,9 +41,9 @@ redirect_from:
 
 
 
-<span class='anchor' id='-work-experience'></span>
-# 💻 Work Experience
-1 \
-2 \
-3 \
-4 \
+''<span class='anchor' id='-work-experience'></span>
+''# 💻 Work Experience
+''1 \
+''2 \
+''3 \
+''4 \
