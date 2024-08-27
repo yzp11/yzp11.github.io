@@ -40,10 +40,7 @@ redirect_from:
 - *2021.08 - 2025.06*, Bachelor in Robot Engineering, Southeast University.
 
 
+<!-- <span class='anchor' id='-work-experience'></span> -->
+<!-- # 💻 Work Experience -->
+<!-- 1 \ -->
 
-''<span class='anchor' id='-work-experience'></span>
-''# 💻 Work Experience
-''1 \
-''2 \
-''3 \
-''4 \
