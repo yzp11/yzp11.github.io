@@ -20,9 +20,10 @@ I'm Zhipeng Yang, a fourth year undergraduate student majoring in Robot Engineer
 
 I am currently seeking Research Assistant or PhD positions. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>. 
 
-<--! <span class='anchor' id='-news'></span> -->
-<--! # 🔥 News -->
-<--! 1 \ -->
+
+<!-- <span class='anchor' id='-news'></span> -->
+<!-- # 🔥 News -->
+<!-- 1 \ -->
 
 
 <span class='anchor' id='-publications'></span>
@@ -30,6 +31,7 @@ I am currently seeking Research Assistant or PhD positions. If you are intereste
 \* indicates equal contribution. 
 - Wang, R.\*, **Yang, Z.**\*, Zhao, Z., Tong, X., Hong, Z. and Qian, K.. LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots. In *2024 Chinese Control Conference(CCC)*, Kunming, China, July 2024. (**Oral**) [arXiv](https://arxiv.org/abs/2405.15646)
 - **Yang, Z.**\*, Wang, R.\*, Tan, Y. and Xie, L.. MALT: Multi-scale Action Learning Transformer for Online Action Detection. In *2024 International Joint Conference on Neural Networks (IJCNN)*, Yokohama, Japan, June 2024. (**Oral**) [arXiv](https://arxiv.org/abs/2405.20892)
+
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
