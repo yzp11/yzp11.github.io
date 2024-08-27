@@ -29,7 +29,7 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 * indicates equal contribution. \
-- {**Yang, Z.**}^*, {Wang, R.}^*, Tan, Y. and Xie, L.. MALT: Multi-scale Action Learning Transformer for Online Action Detection. In *2024 International Joint Conference on Neural Networks (IJCNN)*, Yokohama, Japan, June 2024. (**Oral**) [arXiv]{https://arxiv.org/abs/2405.20892}
+- **Yang, Z.**\*, Wang, R.\*, Tan, Y. and Xie, L.. MALT: Multi-scale Action Learning Transformer for Online Action Detection. In *2024 International Joint Conference on Neural Networks (IJCNN)*, Yokohama, Japan, June 2024. (**Oral**) [arXiv]{https://arxiv.org/abs/2405.20892}
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
