@@ -21,9 +21,9 @@ I'm Zhipeng Yang (杨致芃), a fourth year undergraduate student majoring in Ro
 I am currently seeking Research Assistant or PhD positions. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>. 
 
 
-<!-- <span class='anchor' id='-news'></span> -->
-<!-- # 🔥 News -->
-<!-- 1 \ -->
+<span class='anchor' id='-news'></span>
+# 🔥 News
+None.
 
 
 <span class='anchor' id='-publications'></span>
@@ -38,7 +38,7 @@ I am currently seeking Research Assistant or PhD positions. If you are intereste
 - *2021.08 - 2025.06*, Bachelor in Robot Engineering, Southeast University.
 
 
-<!-- <span class='anchor' id='-work-experience'></span> -->
-<!-- # 💻 Work Experience -->
-<!-- 1 \ -->
+<span class='anchor' id='-work-experience'></span>
+# 💻 Work Experience
+- *2024.09 - now*, Research Assistant (remote), HKUST GZ, supervised by Prof. Xuming Hu.
 
