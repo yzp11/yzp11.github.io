@@ -40,5 +40,5 @@ None.
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2024.09 - now*, Research Assistant (remote), HKUST GZ, supervised by Prof. Xuming Hu.
+- *2024.09 - now*, Intern, HKUST GZ, supervised by Prof. Xuming Hu.
 
