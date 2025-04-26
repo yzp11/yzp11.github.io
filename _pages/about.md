@@ -29,9 +29,6 @@ None.
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 \* indicates equal contribution. 
-\textbf{Yang, Z.*}, Wang, R.*, Tan, Y., \& Xie, L.. MALT: Multi-scale Action Learning Transformer for Online Action Detection. In \emph{2024 International Joint Conference on Neural Networks (IJCNN).} (\textbf{Oral}
-
-
 - Wang, R.\*, **Yang, Z.**\*, Zhao, Z., Tong, X., Hong, Z., & Qian, K.. LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots. In *2024 43rd Chinese Control Conference (CCC).* (**Oral**) [arXiv](https://arxiv.org/abs/2405.15646)
 - **Yang, Z.**\*, Wang, R.\*, Tan, Y., & Xie, L.. MALT: Multi-scale Action Learning Transformer for Online Action Detection. In *2024 International Joint Conference on Neural Networks (IJCNN).* (**Oral**) [arXiv](https://arxiv.org/abs/2405.20892)
 
