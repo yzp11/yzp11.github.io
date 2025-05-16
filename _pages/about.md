@@ -40,5 +40,5 @@ None.
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Internship
-- *2024.09 - now*, Intern, HKUST GZ, supervised by Prof. Xuming Hu.
+- *2024.10 - now*, Intern, HKUST GZ, supervised by Prof. Xuming Hu.
 
