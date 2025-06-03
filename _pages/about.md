@@ -41,5 +41,6 @@ None.
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Internship
-- *2024.10 - now*, Intern, HKUST GZ, supervised by Prof. Xuming Hu.
+- *2024.10 - 2025.5*, Remote Intern, HKUST GZ, supervised by Prof. Xuming Hu.
+- *2025.6 - now*, Research Assistant, MBZUAI, supervised by Prof. Lijie Hu.
 
