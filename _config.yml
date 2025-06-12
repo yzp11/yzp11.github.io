@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhipeng Yang (杨致芃)"
+  name             : "Zhipeng Yang"
   avatar           : "images/profile.png"
   bio              : "Southeast University"
   location         : "Nanjing, China"
