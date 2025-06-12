@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm Zhipeng Yang (杨致芃), a fourth year undergraduate student majoring in Robot Engineering at Southeast University, China. My research interests include Explainable and Trustworthy AI. Currently, I'm working on Mechanistic Interpretability for LLM, which reverse engineer the detailed computations performed by transformers. Before that, I also did some works on Action Detection and Robot Task Planning.
+I'm Zhipeng Yang, a fourth year undergraduate student majoring in Robot Engineering at Southeast University, China. My research interests include Explainable and Trustworthy AI. Currently, I'm working on Mechanistic Interpretability for LLM, which reverse engineer the detailed computations performed by transformers. Before that, I also did some works on Action Detection and Robot Task Planning.
 
 I am currently seeking Research Assistant or PhD positions. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>. 
 
