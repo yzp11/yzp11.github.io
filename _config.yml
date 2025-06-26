@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhipeng Yang (杨致芃)"
-description              : "Independent"
+description              : ""
 repository               : "yzp11/yzp11.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhipeng Yang"
   avatar           : "images/profile.png"
-  bio              : "Southeast University"
+  bio              : "Independent"
   location         : "China"
   employer         :
   pubmed           : 
