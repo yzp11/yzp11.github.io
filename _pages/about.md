@@ -39,7 +39,7 @@ None.
 - *2021.08 - 2025.06*, Bachelor in Robot Engineering, Southeast University.
 
 
-<span class='anchor' id='-work-experience'></span>
+<span class='anchor' id='-internship'></span>
 # 💻 Internship
 - *2024.10 - 2025.5*, HKUST GZ, supervised by Prof. Xuming Hu.
 - *2025.6 - now*, MBZUAI, supervised by Prof. Lijie Hu.
