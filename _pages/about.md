@@ -29,7 +29,7 @@ None.
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 \* indicates equal contribution. 
-- **Yang, Z.**, Li, J., Xia, S., & Hu, X.. Internal Chain-of-Thought: Empirical Evidence for Layer‑wise Subtask Scheduling in LLMs. *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP).* [arXiv](https://arxiv.org/abs/2505.14530) [code](https://github.com/yzp11/Internal-Chain-of-Thought)
+- **Yang, Z.**, Li, J., Xia, S., & Hu, X.. Internal Chain-of-Thought: Empirical Evidence for Layer‑wise Subtask Scheduling in LLMs. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP).* [arXiv](https://arxiv.org/abs/2505.14530) [code](https://github.com/yzp11/Internal-Chain-of-Thought)
 - Wang, R.\*, **Yang, Z.\***, Zhao, Z., Tong, X., Hong, Z., & Qian, K.. LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots. In *2024 43rd Chinese Control Conference (CCC).* (**Oral**) [arXiv](https://arxiv.org/abs/2405.15646)
 - **Yang, Z.\***, Wang, R.\*, Tan, Y., & Xie, L.. MALT: Multi-scale Action Learning Transformer for Online Action Detection. In *2024 International Joint Conference on Neural Networks (IJCNN).* (**Oral**) [arXiv](https://arxiv.org/abs/2405.20892)
 
