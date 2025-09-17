@@ -20,12 +20,11 @@ Hi, I'm Zhipeng Yang (杨致芃). I received my Bachelor's degree in Robot Engin
 - **Planning and Reasoning in LLMs**: As LLMs are increasingly used for decision-making in real-world agents, it is crucial to uncover their underlying reasoning mechanisms. Understanding how they plan and decompose tasks can help ensure the safety, transparency, and accountability of their decisions. My recent works include: *LLM-based Robot Task Planning* ([arXiv](https://arxiv.org/abs/2405.15646)) and *Internal Chain-of-Thought in LLMs* (EMNLP 2025, [arXiv](https://arxiv.org/abs/2505.14530)).
 - **Safety and Behavioral Alignment of LLMs**: Despite their impressive knowledge capabilities, LLMs remain vulnerable to generating harmful content, misinformation, or inappropriate refusals. Currently, I am working on a project addressing the phenomenon of Over-Refusal, where models reject benign prompts due to excessive safety alignment.
 
-I am currently seeking PhD or RA positions. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>. 
-
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-None.
+<font color=red>I am currently seeking PhD or RA positions. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>.</font>
+
 
 
 <span class='anchor' id='-publications'></span>
