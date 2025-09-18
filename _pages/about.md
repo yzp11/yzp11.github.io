@@ -25,9 +25,7 @@ I entered the field of Interpretability in 2024 Summer, motivated by a growing r
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-<font color=red>I am currently seeking PhD or RA positions. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>.</font>
-
-
+<font color=red>I am currently seeking PhD or collaboration opportunities. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>.</font>
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
