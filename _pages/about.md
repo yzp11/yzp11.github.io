@@ -23,7 +23,7 @@ Hi, I'm Zhipeng Yang (杨致芃). I received my Bachelor's degree in Robot Engin
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-<font color=red>I am currently seeking PhD or collaboration opportunities. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>.</font>
+<font color=red>I am currently seeking PhD opportunities. If you are interested, please feel free to contact me via email: <yangzp135@outlook.com>.</font>
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
