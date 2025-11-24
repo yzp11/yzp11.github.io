@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi, I'm Zhipeng Yang (杨致芃). I received my Bachelor's degree in Robot Engineering from Southeast University, China. My research interests lie in Explainable and Trustworthy AI, with a particular focus on the Mechanistic Interpretability of Large Language Models (LLMs). I am especially interested in the following directions:
-- **Planning and Reasoning in LLMs**: As LLMs are increasingly used for decision-making in real-world agents, it is crucial to uncover their underlying reasoning mechanisms. Understanding how they plan and decompose tasks can help ensure the safety, transparency, and accountability of their decisions. My recent works include: *LLM-based Robot Task Planning* ([arXiv](https://arxiv.org/abs/2405.15646)) and *Internal Chain-of-Thought in LLMs* (EMNLP 2025 Main, [arXiv](https://arxiv.org/abs/2505.14530)).
-- **Safety and Behavioral Alignment of LLMs**: Despite their impressive knowledge capabilities, LLMs remain vulnerable to generating harmful content, misinformation, or inappropriate refusals. Currently, I am working on a project addressing the phenomenon of Over-Refusal, where models reject benign prompts due to excessive safety alignment.
+- **Reasoning and Planning Mechanisms in LLMs.** As LLMs are increasingly used for decision-making in real-world agents, it is crucial to uncover their underlying reasoning mechanisms. Understanding how they plan and decompose tasks can help ensure the safety, transparency, and accountability of their decisions. My recent works include: *LLM-based Robot Task Planning* ([arXiv](https://arxiv.org/abs/2405.15646)) and *Internal Chain-of-Thought in LLMs* (EMNLP 2025 Main, [arXiv](https://arxiv.org/abs/2505.14530)).
+- **Mechanistic Interpretability of Safety Behaviors.** Despite their impressive knowledge capabilities, LLMs remain vulnerable to generating harmful content, misinformation, or inappropriate refusals. Currently, I am working on a project addressing the phenomenon of Over-Refusal, where models reject benign prompts due to excessive safety alignment.
 
 
 <span class='anchor' id='-news'></span>
