@@ -35,7 +35,7 @@ None.
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2026.09 - *, PhD in Computer Science, Rutgers University.
+- *2026.09 -*, PhD in Computer Science, Rutgers University.
 - *2021.08 - 2025.06*, Bachelor in Robot Engineering, Southeast University.
 
 
