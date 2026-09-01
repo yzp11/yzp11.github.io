@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I’m Zhipeng Yang (杨致芃), an incoming PhD student in the Computer Science Department at Rutgers University. I received my Bachelor’s degree in Robot Engineering from Southeast University. My research interest lies in Interpretable Natural Language Processing.
+Hi, I’m Zhipeng Yang (杨致芃), an PhD student in the Computer Science Department at Rutgers University. I received my Bachelor’s degree in Robot Engineering from Southeast University. My research interest lies in Interpretable Natural Language Processing.
 
 
 
